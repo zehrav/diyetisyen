@@ -1,0 +1,24 @@
+.carousel-item img{
+
+    height: 70vh;
+    object-fit:cover;
+    object-position: center;
+    overflow:hidden;
+
+}
+.img-about{
+ max-width: 40vh !important;
+ 
+}
+
+
+@media only screen and (max-width: 620px) {
+    body {
+      background-color: rgb(178, 230, 173);
+     
+    }
+    .carousel-item{
+        
+    }
+  }
+  
